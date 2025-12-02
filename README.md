@@ -10,3 +10,10 @@ A lightweight data visualization project demonstrating:
 ## Run Instructions
 
 ### Backend
+cd backend
+npm install express cors
+node server.js
+### Frontend
+cd frontend
+npm install
+npm run dev
